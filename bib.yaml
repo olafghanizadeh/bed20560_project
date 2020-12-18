@@ -1,0 +1,105 @@
+---
+references:
+- id: oecd_growth_2014
+  abstract: >-
+    Data and research on economy including economic outlooks, analysis and
+    forecasts, country surveys, monetary and financial issues, public finance
+    and fiscal policy and productivity., Inequality has risen in the OECD area.
+    Could policies aimed solely at growth be responsible? Can inequality
+    undermine economic growth? New evidence suggests there is a possibility.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 10
+  author:
+    - literal: OECD
+  issued:
+    - year: 2014
+  title: 'Growth and inequality: A close relationship? - OECD'
+  title-short: Growth and inequality
+  type: webpage
+  URL: 'http://www.oecd.org/economy/growth-and-inequality-close-relationship.htm'
+
+- id: roser_global_2013
+  abstract: >-
+    Living conditions around the world are vastly unequal and economic
+    differences are a major reason for this. How is this distribution changing?
+  accessed:
+    - year: 2020
+      month: 12
+      day: 10
+  author:
+    - family: Roser
+      given: Max
+  container-title: Our World in Data
+  container-title-short: Our World in Data
+  issued:
+    - year: 2013
+      month: 11
+      day: 24
+  source: ourworldindata.org
+  title: Global Economic Inequality
+  type: article-journal
+  URL: 'https://ourworldindata.org/global-economic-inequality'
+
+- id: world_bank_annual_nodate
+  accessed:
+    - year: 2020
+      month: 11
+      day: 10
+  author:
+    - literal: World Bank
+  container-title: World Development Indicators
+  title: Annual GDP Growth
+  type: webpage
+  URL: >-
+    https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.PCAP.KD.ZG&country=#
+
+- id: world_bank_education_nodate
+  accessed:
+    - year: 2020
+      month: 12
+      day: 1
+  author:
+    - literal: World Bank
+  title: 'Education Statistics: Education Attainment | DataBank'
+  type: webpage
+  URL: >-
+    https://databank.worldbank.org/source/education-statistics:-education-attainment
+
+- id: world_bank_gini_nodate
+  accessed:
+    - year: 2020
+      month: 11
+      day: 10
+  author:
+    - literal: World Bank
+  title: Gini Index (World Bank Estimate)
+  type: webpage
+  URL: >-
+    https://databank.worldbank.org/reports.aspx?source=2&series=SI.POV.GINI&country=#
+
+- id: world_bank_income_nodate
+  accessed:
+    - year: 2020
+      month: 11
+      day: 18
+  author:
+    - literal: World Bank
+  title: Income Share Held by Highest 10% | DataBank
+  type: webpage
+  URL: >-
+    https://databank.worldbank.org/reports.aspx?source=2&series=SI.DST.10TH.10&country=
+
+- id: world_bank_life_nodate
+  accessed:
+    - year: 2020
+      month: 11
+      day: 5
+  author:
+    - literal: World Bank
+  title: Life Expectancy at birth
+  type: webpage
+  URL: >-
+    https://databank.worldbank.org/reports.aspx?source=2&series=SP.DYN.LE00.IN&country=
+...
